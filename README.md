@@ -1,4 +1,4 @@
-#OLA! PODE ME CHAMAR DE ADRY ASPIRANTE A FRONT-END E DESIGN XD
+#OLA! PODE ME CHAMAR DE ADRY ASPIRANTE A FRONT-END E DESIGNER XD
 <!--linguagens que trabalho-->
 <div align="center">
   <div style="display: inline_block"><br>

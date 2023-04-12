@@ -1,4 +1,4 @@
-#OLA! PODE ME CHAMAR DE ADRY ASPIRANTE A FRONT-END E DESIGNER XD
+#OLA! Pode me chamar de Adry :) Gosto de estilização de sites, PixelArt e aprender com experiencias!
 <!--linguagens que trabalho-->
 <div align="center">
   <div style="display: inline_block"><br>

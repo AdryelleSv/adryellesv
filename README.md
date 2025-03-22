@@ -1,29 +1,81 @@
-#OLA! Pode me chamar de Adry :) Gosto de estilização de sites, PixelArt e aprender com experiencias!
-<!--linguagens que trabalho-->
-<div align="center">
-  <div style="display: inline_block"><br>
-    <img align="center" alt="adry-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="adry-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="adry-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="adry-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="adry-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    </div>
- 
-  <!--estatistica de frequencia-->
-  <p align="center">
-    <a href="https://github.com/adryellesv/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="adryellesv's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=adryellesv&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+# 👩🏻‍💻 Adryelle Vilar
+
+**`Desenvolvedora Web Junior`**
+
+Me chamo Adryelle Vilar, tenho 21 anos e sou natural do Pernambuco.Apaixonada por tecnologia, desenvolvimento web e o universo da programação! 🚀 Atualmente, curso Análise e Desenvolvimento de Sistemas na Unifavip-Wyden e estou sempre explorando novas tecnologias para criar soluções eficientes.
+
+---
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="150px" 
+    style="padding-right: 10px;" 
+    src="https://media.discordapp.net/attachments/707403727480422431/1353149800962326589/Design_sem_nome-removebg-preview.png?ex=67e09a74&is=67df48f4&hm=874edbb142acb37eb5e52bbc6005ef337ff5d6bd1dfa6b5115bc6b68c5ea4f8c&=&format=webp&quality=lossless" 
+/>
+
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
+     />
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=AdryelleSv&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdryelleSv&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
 </p>
-
-<!--REDES SOCIAIS :P-->
-<a href="https://www.instagram.com/uzi.dri/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-</a>
-
-<!--ESTATISTICAS-->
-## 📊 Minhas estatísticas do Github
-<a href="https://github.com/adryellesv/github-readme-stats"><img alt="adryellesv's Github Stats" src="https://github-readme-stats.vercel.app/api?username=adryellesv&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/adryellesv/github-readme-stats"><img alt="adryellesv's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adryellesv&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> <p>principais idiomas são apenas uma métrica dos idiomas em que meu código público consiste e não refletem a experiência ou o nível de habilidade</p> 
-<br>
